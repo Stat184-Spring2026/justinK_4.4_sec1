@@ -25,4 +25,4 @@ Use this section to explain the structure of your repo. This should help visitor
 
 ## Authors
 
-Give information about who are the authors of the project and how people can get in touch if they have questions.
+The author of this project is a Pennsylvania State University sophomore, Justin Kim. To reach out please use this email: (mailto:jlk6573@psu.edu)
