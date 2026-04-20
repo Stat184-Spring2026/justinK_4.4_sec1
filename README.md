@@ -8,7 +8,8 @@ The purpose of this project is to relate how Quarto and R can be used together t
 
 ### Interesting Insight 
 
-One interesting insight from the project was from the busiest airport analysis, where not every airport remained in the top six busiest airports every year. For example, Seoul - Incheon International Airport started appearing in the data set in 2023, while Beijing Daxing International Airport didn't start appearing until 2020. ![Passenger Traffic at 6 Busiest Airports] (images/airport_plot.png)
+One interesting insight from the project was from the busiest airport analysis, where not every airport remained in the top six busiest airports every year. For example, Seoul - Incheon International Airport started appearing in the data set in 2023, while Beijing Daxing International Airport didn't start appearing until 2020. 
+![Passenger Traffic at 6 Busiest Airports] (images/airport_plot.png)
 
 ## Data Sources and Acknowledgements
 
@@ -30,7 +31,7 @@ For additional information, please visit 'Plan.md'.
 
 This repository contains:
 - HW 4.3 Quarto Report.qmd => Source file containing code, analysis, and visualization
-- Hw -4.3-Quarto-Report.pdf => Final PDF version of the report
+- Hw-4.3-Quarto-Report.pdf => Final PDF version of the report
 - calcium.csv => Calcium data set used in the GenAI analysis
 - README.md => Overview of the project
 - Plan.md => File containing plan for the project and information for setting up and maintaining the repo
